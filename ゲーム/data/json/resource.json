@@ -1,0 +1,52 @@
+{
+  "graph": [
+    {
+      "name": "text_box",
+      "path": "./data/graph/ui/text_box.png",
+      "width": 150,
+      "height": 30,
+      "vertical": 1,
+      "horizontal": 1,
+      "loop": false,
+      "interval": 0,
+      "sheets": 0,
+      "scope": [
+        "ui",
+        "text_box",
+        "all"
+      ]
+    },
+    {
+      "name": "title_back",
+      "path": "./data/graph/title/title_back.png",
+      "width": 480,
+      "height": 640,
+      "vertical": 1,
+      "horizontal": 1,
+      "loop": false,
+      "interval": 0,
+      "sheets": 0,
+      "scope": [
+        "title",
+        "back",
+        "all"
+      ]
+    },
+    {
+      "name": "board",
+      "path": "./data/graph/stone.png",
+      "width": 48,
+      "height": 48,
+      "vertical": 1,
+      "horizontal": 7,
+      "loop": false,
+      "interval": 0,
+      "sheets": 7,
+      "scope": [
+        "stone",
+        "game",
+        "all"
+      ]
+    }
+  ]
+}

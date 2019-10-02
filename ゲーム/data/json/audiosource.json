@@ -1,0 +1,36 @@
+{
+  "audio": [
+    {
+      "name": "decision",
+      "loop": false,
+      "path": "./data/BGM_SE/SE/SystemDecision.ogg",
+      "scope": [
+        "decision",
+        "se",
+        "system",
+        "all"
+      ]
+    },
+    {
+      "name": "cursol",
+      "loop": false,
+      "path": "./data/BGM_SE/SE/SystemCursol.ogg",
+      "scope": [
+        "se",
+        "system",
+        "all"
+      ]
+    },
+    {
+      "name": "title",
+      "loop": true,
+      "path": "./data/BGM_SE/BGM/Title.ogg",
+      "scope": [
+        "bgm",
+        "title",
+        "all"
+      ]
+    }
+    
+  ]
+}
