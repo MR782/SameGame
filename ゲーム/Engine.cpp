@@ -22,6 +22,7 @@ void Engine::initialize()
 	user.score = 0;
 	buf_num = 0;
 	gameover_flag = false;
+	gameclear_flag = false;
 }
 
 void Engine::set_fade_ioFlag(bool flag)
