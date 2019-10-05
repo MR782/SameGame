@@ -1,0 +1,260 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="リソース ファイル">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="プロジェクトファイル">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="プロジェクトファイル\Resource">
+      <UniqueIdentifier>{df5d8b20-e17a-4137-a09e-57bf9b15c8a8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="プロジェクトファイル\UI">
+      <UniqueIdentifier>{cfe50f74-203d-47b8-a981-501e9e5ab7ce}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="プロジェクトファイル\Scene">
+      <UniqueIdentifier>{944a749b-8313-4dcd-a9e2-e932615e057c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="プロジェクトファイル\Helper">
+      <UniqueIdentifier>{4a2aca6f-560e-4893-b24c-ca2a8b4f2c63}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="プロジェクトファイル\Controll">
+      <UniqueIdentifier>{2cd7aadc-8dcd-429b-b5e6-047385d26f76}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="プロジェクトファイル\Object">
+      <UniqueIdentifier>{e793297e-33ad-462f-9b8d-c500a9ab99be}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="プロジェクトファイル\Purpose">
+      <UniqueIdentifier>{c98dc247-9de3-4435-83b0-7baaf4b51c5b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="プロジェクトファイル\Helper\Screen%28FadeIO%29">
+      <UniqueIdentifier>{01702501-6072-4d30-8269-02e64f64b001}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="プロジェクトファイル\Helper\Screen%28FadeIO%29\Graph">
+      <UniqueIdentifier>{bf43079b-0fe3-4bfb-8771-3182f3943bc8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="プロジェクトファイル\Helper\Screen%28FadeIO%29\System">
+      <UniqueIdentifier>{6a459142-5c0a-4248-8ec0-51377a9f72da}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="プロジェクトファイル\Controll\Engine">
+      <UniqueIdentifier>{e99e7f76-1762-44f1-918f-8c3f80fd8457}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="プロジェクトファイル\Controll\FPS">
+      <UniqueIdentifier>{ef463d4d-72e9-4036-8e2e-c26d3947644c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="プロジェクトファイル\Controll\KeyBoard">
+      <UniqueIdentifier>{a725e493-d81f-41b3-a425-b820190551a9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="プロジェクトファイル\Controll\Mouse">
+      <UniqueIdentifier>{2d54ecc5-cf06-432d-9ef9-7998b3773d3c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="プロジェクトファイル\Controll\FadeIO">
+      <UniqueIdentifier>{680e5839-56cc-429b-8d74-6b5faed9eeeb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="プロジェクトファイル\Object\SuperClass">
+      <UniqueIdentifier>{2aa99256-8ca8-4eaf-a2a4-f1525e2e6edc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="プロジェクトファイル\Scene\Core">
+      <UniqueIdentifier>{76bc126d-ba40-4058-b1a5-1e728c342abc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="プロジェクトファイル\Scene\Game">
+      <UniqueIdentifier>{d41ef3c4-4138-4800-8607-5b3d91d9a4e8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="プロジェクトファイル\Scene\Title">
+      <UniqueIdentifier>{f2e9f338-b1ec-49f6-a6b7-d5578028aad5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="プロジェクトファイル\UI\TitleScene">
+      <UniqueIdentifier>{2d86cb27-1543-4aa6-a8e0-65b198b909a9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="プロジェクトファイル\Resource\Animation">
+      <UniqueIdentifier>{ee5cedbc-de40-478e-a7fe-ace231d18ce0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="プロジェクトファイル\Resource\Animation\GraphicResource">
+      <UniqueIdentifier>{e351b15f-8689-4d0d-bf17-21e38b65cadd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="プロジェクトファイル\Resource\Audio">
+      <UniqueIdentifier>{ba7e1fae-e87e-4efa-8094-59b0446f01d3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="プロジェクトファイル\Controll\Ranking">
+      <UniqueIdentifier>{f18c62ce-bb62-4d6e-807e-34718b59edd8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="プロジェクトファイル\UI\Ending">
+      <UniqueIdentifier>{17721d00-dab7-4458-b741-e58ffb4e5f7f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="プロジェクトファイル\UI\Ending\Ranking">
+      <UniqueIdentifier>{cdc21bf8-a3c7-4723-a791-b43828af38bc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="プロジェクトファイル\UI\Base">
+      <UniqueIdentifier>{bb7015d2-ece1-4906-b2f7-e138b471de97}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="プロジェクトファイル\Scene\Ending">
+      <UniqueIdentifier>{83ce41ad-30c2-4b86-9ac6-fa5e850e37fc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="プロジェクトファイル\Scene\InputName">
+      <UniqueIdentifier>{a5e1e45f-a572-412a-9299-8a08841f7d5d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="プロジェクトファイル\Object\Board">
+      <UniqueIdentifier>{34058d7c-fbb0-4bd4-b99b-a54894e64a3d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="プロジェクトファイル\UI\GameUI">
+      <UniqueIdentifier>{fc8eb764-aa61-4f4f-807c-290283625244}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>プロジェクトファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Purpose.cpp">
+      <Filter>プロジェクトファイル\Purpose</Filter>
+    </ClCompile>
+    <ClCompile Include="json11.cpp">
+      <Filter>リソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="ScreeHelperGraph.cpp">
+      <Filter>プロジェクトファイル\Helper\Screen%28FadeIO%29\Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="ScreenSystem.cpp">
+      <Filter>プロジェクトファイル\Helper\Screen%28FadeIO%29\System</Filter>
+    </ClCompile>
+    <ClCompile Include="Engine.cpp">
+      <Filter>プロジェクトファイル\Controll\Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="Fps.cpp">
+      <Filter>プロジェクトファイル\Controll\FPS</Filter>
+    </ClCompile>
+    <ClCompile Include="KeyBoard.cpp">
+      <Filter>プロジェクトファイル\Controll\KeyBoard</Filter>
+    </ClCompile>
+    <ClCompile Include="Mouse.cpp">
+      <Filter>プロジェクトファイル\Controll\Mouse</Filter>
+    </ClCompile>
+    <ClCompile Include="ScreenFunction.cpp">
+      <Filter>プロジェクトファイル\Controll\FadeIO</Filter>
+    </ClCompile>
+    <ClCompile Include="Object.cpp">
+      <Filter>プロジェクトファイル\Object\SuperClass</Filter>
+    </ClCompile>
+    <ClCompile Include="CoreScene.cpp">
+      <Filter>プロジェクトファイル\Scene\Core</Filter>
+    </ClCompile>
+    <ClCompile Include="GameScene.cpp">
+      <Filter>プロジェクトファイル\Scene\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="TitleUIText.cpp">
+      <Filter>プロジェクトファイル\UI\TitleScene</Filter>
+    </ClCompile>
+    <ClCompile Include="Animation.cpp">
+      <Filter>プロジェクトファイル\Resource\Animation</Filter>
+    </ClCompile>
+    <ClCompile Include="Resource.cpp">
+      <Filter>プロジェクトファイル\Resource\Animation\GraphicResource</Filter>
+    </ClCompile>
+    <ClCompile Include="Audio.cpp">
+      <Filter>プロジェクトファイル\Resource\Audio</Filter>
+    </ClCompile>
+    <ClCompile Include="RankingData.cpp">
+      <Filter>プロジェクトファイル\Controll\Ranking</Filter>
+    </ClCompile>
+    <ClCompile Include="Ranking.cpp">
+      <Filter>プロジェクトファイル\UI\Ending\Ranking</Filter>
+    </ClCompile>
+    <ClCompile Include="BasicUI.cpp">
+      <Filter>プロジェクトファイル\UI\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="EndingScene.cpp">
+      <Filter>プロジェクトファイル\Scene\Ending</Filter>
+    </ClCompile>
+    <ClCompile Include="TitleScene.cpp">
+      <Filter>プロジェクトファイル\Scene\Title</Filter>
+    </ClCompile>
+    <ClCompile Include="InputNameScene.cpp">
+      <Filter>プロジェクトファイル\Scene\InputName</Filter>
+    </ClCompile>
+    <ClCompile Include="GameBoard.cpp">
+      <Filter>プロジェクトファイル\Object\Board</Filter>
+    </ClCompile>
+    <ClCompile Include="GameSceneUI.cpp">
+      <Filter>プロジェクトファイル\UI\GameUI</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="define.h">
+      <Filter>プロジェクトファイル\Helper</Filter>
+    </ClInclude>
+    <ClInclude Include="Purpose.h">
+      <Filter>プロジェクトファイル\Purpose</Filter>
+    </ClInclude>
+    <ClInclude Include="json11.hpp">
+      <Filter>リソース ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="ScreenHelperGraph.h">
+      <Filter>プロジェクトファイル\Helper\Screen%28FadeIO%29\Graph</Filter>
+    </ClInclude>
+    <ClInclude Include="ScreenSystem.h">
+      <Filter>プロジェクトファイル\Helper\Screen%28FadeIO%29\System</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine.h">
+      <Filter>プロジェクトファイル\Controll\Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="Fps.h">
+      <Filter>プロジェクトファイル\Controll\FPS</Filter>
+    </ClInclude>
+    <ClInclude Include="KeyBoard.h">
+      <Filter>プロジェクトファイル\Controll\KeyBoard</Filter>
+    </ClInclude>
+    <ClInclude Include="Mouse.h">
+      <Filter>プロジェクトファイル\Controll\Mouse</Filter>
+    </ClInclude>
+    <ClInclude Include="ScreenFunction.h">
+      <Filter>プロジェクトファイル\Controll\FadeIO</Filter>
+    </ClInclude>
+    <ClInclude Include="Object.h">
+      <Filter>プロジェクトファイル\Object\SuperClass</Filter>
+    </ClInclude>
+    <ClInclude Include="CoreScene.h">
+      <Filter>プロジェクトファイル\Scene\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="GameScene.h">
+      <Filter>プロジェクトファイル\Scene\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="TitleUIText.h">
+      <Filter>プロジェクトファイル\UI\TitleScene</Filter>
+    </ClInclude>
+    <ClInclude Include="Animation.h">
+      <Filter>プロジェクトファイル\Resource\Animation</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>プロジェクトファイル\Resource\Animation\GraphicResource</Filter>
+    </ClInclude>
+    <ClInclude Include="Audio.h">
+      <Filter>プロジェクトファイル\Resource\Audio</Filter>
+    </ClInclude>
+    <ClInclude Include="RankingData.h">
+      <Filter>プロジェクトファイル\Controll\Ranking</Filter>
+    </ClInclude>
+    <ClInclude Include="Ranking.h">
+      <Filter>プロジェクトファイル\UI\Ending\Ranking</Filter>
+    </ClInclude>
+    <ClInclude Include="BasicUI.h">
+      <Filter>プロジェクトファイル\UI\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="EndingScene.h">
+      <Filter>プロジェクトファイル\Scene\Ending</Filter>
+    </ClInclude>
+    <ClInclude Include="TitleScene.h">
+      <Filter>プロジェクトファイル\Scene\Title</Filter>
+    </ClInclude>
+    <ClInclude Include="InputNameScene.h">
+      <Filter>プロジェクトファイル\Scene\InputName</Filter>
+    </ClInclude>
+    <ClInclude Include="GameBoard.h">
+      <Filter>プロジェクトファイル\Object\Board</Filter>
+    </ClInclude>
+    <ClInclude Include="GameSceneUI.h">
+      <Filter>プロジェクトファイル\UI\GameUI</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

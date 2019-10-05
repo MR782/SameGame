@@ -1,0 +1,100 @@
+{
+  "graph": [
+    {
+      "name": "text_box",
+      "path": "./data/graph/ui/text_box.png",
+      "width": 150,
+      "height": 30,
+      "vertical": 1,
+      "horizontal": 1,
+      "loop": false,
+      "interval": 0,
+      "sheets": 0,
+      "scope": [
+        "ui",
+        "text_box",
+        "all"
+      ]
+    },
+    {
+      "name": "title_back",
+      "path": "./data/graph/title/title_back.png",
+      "width": 1920,
+      "height": 1080,
+      "vertical": 1,
+      "horizontal": 1,
+      "loop": false,
+      "interval": 0,
+      "sheets": 0,
+      "scope": [
+        "title",
+        "back",
+        "all"
+      ]
+    },
+    {
+      "name": "title_ui",
+      "path": "./data/graph/title/TitleUI.png",
+      "width": 256,
+      "height": 64,
+      "vertical": 1,
+      "horizontal": 1,
+      "loop": false,
+      "interval": 0,
+      "sheets": 0,
+      "scope": [
+        "title",
+        "back",
+        "all"
+      ]
+    },
+    {
+      "name": "board",
+      "path": "./data/graph/stone.png",
+      "width": 48,
+      "height": 48,
+      "vertical": 1,
+      "horizontal": 7,
+      "loop": false,
+      "interval": 0,
+      "sheets": 7,
+      "scope": [
+        "stone",
+        "game",
+        "all"
+      ]
+    },
+    {
+      "name": "rank_no",
+      "path": "./data/graph/ending/RankingNo.png",
+      "width": 64,
+      "height": 64,
+      "vertical": 1,
+      "horizontal": 5,
+      "loop": false,
+      "interval": 0,
+      "sheets": 5,
+      "scope": [
+        "rank",
+        "ending",
+        "all"
+      ]
+    },
+    {
+      "name": "ending_back",
+      "path": "./data/graph/ending/EndingSceneBack.png",
+      "width": 1920,
+      "height": 1080,
+      "vertical": 1,
+      "horizontal": 1,
+      "loop": false,
+      "interval": 0,
+      "sheets": 1,
+      "scope": [
+        "ending",
+        "back",
+        "all"
+      ]
+    }
+  ]
+}
